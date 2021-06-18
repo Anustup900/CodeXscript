@@ -30,6 +30,19 @@ Biomedical waste is distinct from normal trash or general waste, and differs fro
 9. ![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/Screenshot%202021-06-18%20194750.jpg)
 10. ![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/Screenshot%202021-06-18%20195921.jpg)
 
+
+Screenshots of app running in mobile:
+![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/08100084-48f4-4d94-a94a-e77da0cafee4.jpg)
+![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/0e6b2a0a-c61b-4992-ac4e-45eafb7cd186.jpg)
+![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/120aafc0-9b18-47a7-b4fc-215090dbdbc9.jpg)
+![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/2549c8ea-0294-468a-a534-59a1c2626875.jpg)
+![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/52cc3e9a-9e23-45a4-98e7-ab30df3436b0.jpg)
+![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/59a936b3-ea7e-4792-b198-5508339350af.jpg)
+![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/78a0f4f8-d954-4a30-9d13-79b2cbc8693d.jpg)
+![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/aef89b9a-7ab4-4f05-8d9e-65a09309d09a.jpg)
+![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/d7411b34-5dd1-4ba4-8609-a40a154f2e5d.jpg)
+![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/f1e7d53d-4f4f-4a20-bdf2-1a285669a9c7.jpg)
+
 # Tech Stats
 
 1. Flutter
