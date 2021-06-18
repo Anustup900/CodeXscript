@@ -26,6 +26,9 @@ Biomedical waste is distinct from normal trash or general waste, and differs fro
 5. Also we add an additional feature of GPS tracker and we integrate it through Google maps.
 6. The user will upload a photograph or the receiver adds a photo and also the thermal camera provides photo of the garbage dumped area.All this acts as the data and        Google map reflects this data.
 7. And then the NGOs just need to install our app,login to it and open it whenever they find a notification about the dumped waste complain and then simply it will show    the map and take them towards the concerned area easily.
+8. ![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/kk.jpeg)
+9. ![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/Screenshot%202021-06-18%20194750.jpg)
+10. ![image](https://github.com/Ayushi2811/CodeXscript/blob/main/Images/Screenshot%202021-06-18%20195921.jpg)
 
 # Tech Stats
 
